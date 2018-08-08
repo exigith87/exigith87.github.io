@@ -36,7 +36,18 @@
                            </div>
 
 
+                         <div class="col-md-4 col-sm-12 col-lgx-12">
 
+
+                           <div class="card">
+                              <div class="card-body">
+                                <h5 class="card-title">Portofolio</h5>
+                                <p class="card-text">This is a wider  supporting text  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod supporting text  Lorem ipsum </p>
+                             </div>
+
+                               <img class="card-img-bottom" src="../assets/logo.png" alt="Card image cap">
+                           </div>
+                       </div>
                      
 
 

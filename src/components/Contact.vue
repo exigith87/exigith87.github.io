@@ -2,6 +2,7 @@
 <div>
 
     <section class="section-75 section-bottom-60 section-md-100 bg-default bg-image">
+    <h1>erold</h1>
     <div class="container">
      <div class="row row-40 no-gutters justify-content-center justify-content-md-end align-items-center">
        <div class="col-sm-10 col-md-7 col-lg-6 col-xl-5" style="max-width:430px;">

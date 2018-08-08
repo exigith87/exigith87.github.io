@@ -2,7 +2,7 @@
 <div >
             <section class="container-fluid banner">
                   <div class="ban">
-                         <img src="../assets/images/banner2.jpg" alt="site banner">
+                         <img src="../assets/images/.jpg" alt="site banner">
                   </div>
 
                   <div class="inner-banner">
